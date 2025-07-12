@@ -1,6 +1,5 @@
 # Stock-Price-Prediction_2018-to-2021
 
-readme_content = """\
 # 📈 Stock Price Prediction using Machine Learning
 
 This project leverages historical stock market data to predict future prices using machine learning techniques. The model is trained and evaluated on prominent Indian companies: **IOC**, **Sun Pharma**, **Reliance**, **ITC**, and **TCS**. The approach is generalized, allowing future predictions with updated datasets from the same or different companies.
